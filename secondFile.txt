@@ -1,1 +1,1 @@
-This second file is created by developer 1
+text added to merge git hub
